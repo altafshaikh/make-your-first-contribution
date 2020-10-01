@@ -2,7 +2,7 @@
 
 ## Learn More about Hacktoberfest and Participation Details
 
-ALl you need to know about HacktoberFest checkout this article [what is Hacktoberfest 2020](https://bit.ly/WhatIsHacktoberFest2020)
+ALL you need to know about HacktoberFest checkout this article [what is Hacktoberfest 2020](https://bit.ly/WhatIsHacktoberFest2020)
 
 ## Know More About Open Source
 
