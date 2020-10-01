@@ -2,9 +2,9 @@
 	<div>
 	    <p>
 	    	
-	   	- Developer <br>
-	   	- learner  <br>
-	   	- student <br>
-	   	- designer <br>
+	   	- Developer,designer <br>
+	   	- IIIT Allahbad <br>
+	   	- Alwar <br>
+	   	student
 	    </p>
 	</div>
