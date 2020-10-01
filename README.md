@@ -35,7 +35,7 @@ Read more here: https://www.teachmebro.com/post/what-is-open-source
 
 ## This Repo is Hosted Live
 
-You can see it here tinyurl.com/gettingintoopensource
+You can see it here [](tinyurl.com/gettingintoopensource)
 
 ## Contribution
 
