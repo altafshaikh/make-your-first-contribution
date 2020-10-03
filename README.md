@@ -31,5 +31,5 @@ You can see it here [tinyurl.com/gettingintoopensource](https://tinyurl.com/gett
 
 ## Contribution
 
-Check the issue tab [here](https://github.com/altafshaikh/make-your-first-contribution/issues/9)
+Check the Contribution steps [here](https://github.com/altafshaikh/make-your-first-contribution/blob/master/CONTRIBUTING.md)
 
