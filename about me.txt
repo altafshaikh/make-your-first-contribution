@@ -1,0 +1,10 @@
+<h3> Sneha Gupta</h3>
+	<div>
+	    <p>
+	    	
+	   	- Developer,designer <br>
+	   	- IIIT Allahbad <br>
+	   	- Alwar <br>
+	   	student
+	    </p>
+	</div>
